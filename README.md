@@ -112,6 +112,20 @@ Machine Learning based disease prediction dashboard.
 
 ---
 
+# 📜 Certifications
+
+🏅 Microsoft AI Skills
+
+🏅 Google Cloud Skills Boost
+
+🏅 AICTE Internship
+
+🏅 Python Programming
+
+🏅 Machine Learning
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
