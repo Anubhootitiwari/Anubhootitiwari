@@ -140,6 +140,14 @@ Machine Learning based disease prediction dashboard.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anubhootitiwari/Anubhootitiwari/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
