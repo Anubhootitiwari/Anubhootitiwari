@@ -20,7 +20,7 @@
 
 🌱 Learning **MLOps, Docker, Kubernetes, AWS/GCP and AI Agents**
 
-💼 Looking for **AI/ML Engineer | Data Scientist | Generative AI Opportunities**
+💼 Looking for **AI/ML Engineer job | Data Scientist | Generative AI Opportunities**
 
 ---
 
