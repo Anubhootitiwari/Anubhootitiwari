@@ -75,6 +75,8 @@
 - FastAPI
 - React
 - PostgreSQL
+- LLMGraph
+- Multi agent system
 
 ---
 
@@ -86,7 +88,7 @@ AI powered disaster prediction and emergency resource allocation platform.
 
 ---
 
-### 🏢 IT Change Management System
+### 🏢 IT/OT Change Management System
 
 Enterprise workflow automation with Role Based Access Control.
 
@@ -95,6 +97,12 @@ Enterprise workflow automation with Role Based Access Control.
 ### 😊 Face Emotion Recognition
 
 Real-time emotion detection using CNN and OpenCV.
+
+---
+
+###  Employee management system
+
+manually manage the task of employees
 
 ---
 
@@ -129,6 +137,14 @@ Machine Learning based disease prediction dashboard.
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhootitiwari&theme=tokyo-night"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anubhootitiwari&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
