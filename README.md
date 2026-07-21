@@ -162,12 +162,6 @@ Machine Learning based disease prediction dashboard.
 
 ---
 
-<a href="https://yourportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
